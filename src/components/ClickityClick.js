@@ -9,4 +9,6 @@ class ClickityClick extends Component {
       hasBeenClicked: false
     };
   }
+  
+  handleClick = () 
 }
